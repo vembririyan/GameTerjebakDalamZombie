@@ -1,4 +1,4 @@
-#:video_game: Game Terjebak Dalam Zombie
+# :video_game: Game Terjebak Dalam Zombie
 
 :video_game: Dibuat menggunakan Unity 3D v2019.3.13f1\
 Bahasa Pemrograman yang digunakan C#
